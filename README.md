@@ -20,6 +20,4 @@ Welcome to my GitHub profile! I'm a second-year Information Technology student a
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IkhsanShahPohan&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-[Markdown Guide](https://www.markdownguide.org)
-
 *🚀Let's Connect!*
