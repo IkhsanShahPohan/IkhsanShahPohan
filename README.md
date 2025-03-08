@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a second-year Information Technology student a
   <img src="https://github-readme-stats.vercel.app/api?username=IkhsanShahPohan&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IkhsanShahPohan&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
