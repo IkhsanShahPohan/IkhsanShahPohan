@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a second-year Information Technology student a
 - 🧩 Problem Solving & Critical Thinking
 
 ### 📊 GitHub Stats:
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
