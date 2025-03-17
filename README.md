@@ -11,6 +11,9 @@ Welcome to my GitHub profile! I'm a second-year Information Technology student a
 - 👥 Leadership & Team Management
 - 🧩 Problem Solving & Critical Thinking
 
+🛠️ Tech Stack
+<p> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /> </p>
+
 ### 📊 GitHub Stats:
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=IkhsanShahPohan&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats" />
