@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a second-year Information Technology student a
 - 👥 Leadership & Team Management
 - 🧩 Problem Solving & Critical Thinking
 
-🛠️ Tech Stack
+🛠️ Tech Used:
 <p><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /> </p>
 
 ### 📊 GitHub Stats:
